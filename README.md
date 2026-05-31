@@ -1,7 +1,7 @@
 # Tip-Calculator
 # 📅 Day 2 of 100 Days of Code
 
-## 💰 Tip Calculator
+# 💰 Tip Calculator
 
 > A clean and simple tip calculator built with Python.
 
